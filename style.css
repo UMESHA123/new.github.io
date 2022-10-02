@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Avenir-Next";
+}
+.video-card{
+    width: 50%;
+}
+video{
+    width: 100%;
+    border-radius: 4px;
+}
+.learn-react-today{
+    
+    background-color: rgba(231, 224, 224, 0.37);
+}
+.prize{
+    color: rgb(3, 139, 250);
+    padding-left: 2rem;
+    padding-top: 2rem;
+    margin-left: 4.3rem;
+}
+.h2-heading{
+    color: black;
+    padding-left: 6rem;
+    padding-top: 4px;
+    font-weight: 400;
+    margin-top: 2rem;
+    font-size: 2rem;   
+}
+.first-content{
+    color: black;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 1rem;
+    line-height: 1.5rem;
+    font-size: 1rem;
+    
+}
+.buy-now-button{
+    background-color: rgb(0, 170, 255);
+    border: none;
+    margin-left: 6rem;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    margin-top: 1rem;
+    color: white;
+    margin-bottom: 50px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+}
+.buy-now-button:hover{
+    box-shadow: 1px 1px 4px gray;
+    opacity: 0.8;
+}
+.buy-now-button:active{
+    opacity: 0.5;
+}
+.what-will-you-get{
+    margin-top: 20px;
+    padding-left: 2rem;
+    line-height: 25px;
+    padding-right: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+}
+.ul-1{
+    margin-top: 20px;
+}
+
+.preview-button{
+    background-color: rgb(0, 170, 255);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-left: 9px ;
+    transition: box-shadow 0.15s, opacity 0.15s;
+}
+.preview-button:hover{
+    box-shadow: 1px 1px 5px gray;
+    opacity: 0.8;
+}
+.preview-button:active{
+    opacity: 0.5;
+}
+.preview-content{
+    
+    padding-left: 2rem;
+    padding-right: 1rem;
+    line-height: 2rem;
+}
+.black-bg{
+    background-color: rgba(0, 0, 0, 0.925);
+    color: white;
+    padding-bottom: 0;
+}
+.h5-heading{
+    margin-left: 2rem;
+    font-size: 1.3em;
+    margin-right: 2rem;
+    padding-left: 4rem;
+}
+.auther-img{
+    margin-left: 6rem;
+    float: left;
+    margin: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 3px;
+}
+.auther-title{
+    font-size: 2rem;
+    margin-left: 6rem;
+   
+}
+.youtube-button{
+    cursor: pointer;
+    transition: width 0.15s;
+}
+.youtube-button:hover{
+    width: 4%;
+    
+}
+.a-tag{
+    color: gray;
+    margin-left: 6rem;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 12px;
+}
+.a-tag1{
+    color: gray;
+    margin-left: 1rem;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 12px;
+}
+.intro-video{
+    float: right;
+    width: 50%;
+    margin-top: 2rem;
+    margin-right: 2rem;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 1px 1px 10px gray;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
